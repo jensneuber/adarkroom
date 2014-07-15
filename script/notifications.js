@@ -56,10 +56,8 @@ var Notifications = {
 				$(this).remove();
 			}
 		
-		});
-		
-	},
-	
+			});
+		},
 	printMessage: function(t) {
 		var text = $('<div>').addClass('notification').css('opacity', '0').text(t).prependTo('div#notifications');
 		text.animate({opacity: 1}, 500, 'linear', function() {
