@@ -19,7 +19,7 @@
 
     options: {
       log: false,
-      key: 'q7vyvfsakyfmp3o',
+      key: 'csgo3beqpf8mmjf',
       table: 'adarkroom'
     },
 
